@@ -3,5 +3,5 @@ git:
     - filter_type: file
       file_format: GITHUBMARKDOWN
       source_language: en
-      source_file: 2020/all_en.md
-      translation_files_expression: '2020/all_<lang>.md'
+      source_file: 2020/all.en.md
+      translation_files_expression: '2020/all.<lang>.md'
