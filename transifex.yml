@@ -1,8 +1,7 @@
-
 git:
   filters:
     - filter_type: file
       file_format: MARKDOWN
       source_language: en
-      source_file: '2020/all_en.md
+      source_file: 2020/all_en.md
       translation_files_expression: '2020/all_<lang>.md'
