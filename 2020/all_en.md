@@ -495,7 +495,6 @@ Can present their opinion in simple terms, provided interlocutors are patient.
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language activities - Production - Oral production  
 \## Public announcements  
 \### C2  
@@ -512,7 +511,6 @@ Can deliver very short, rehearsed announcements of predictable, learnt content w
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language activities - Production - Oral production  
 \## Addressing audiences  
 \### C2  
@@ -633,7 +631,6 @@ Can give their impressions and opinions about topics of personal interest (e.g. 
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language strategies - Production -   
 \## Planning  
 \### C2  
@@ -654,7 +651,6 @@ Can recall and rehearse an appropriate set of phrases from their repertoire.
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language strategies - Production -   
 \## Compensating  
 \### C2  
@@ -703,7 +699,6 @@ No descriptors available
 
 \### Pre-A1
 
-  
 \# Communicative language activities - Interaction - Oral interaction  
 \## Overall oral interaction  
 \### C2  
@@ -868,7 +863,6 @@ Can express what they think about things when addressed directly in a formal mee
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language activities - Interaction - Oral interaction  
 \## Goal-oriented co-operation (cooking together, discussing a document, organising an event, etc.)  
 \### C2  
@@ -1040,7 +1034,6 @@ Can understand a simple message (e.g. “My flight is late. I will arrive at ten
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language activities - Interaction - Written interaction  
 \## Overall written interaction  
 \### C2  
@@ -1222,7 +1215,6 @@ Can ask for attention.
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language strategies - Interaction -   
 \## Co-operating  
 \### C2  
@@ -1247,7 +1239,6 @@ Can indicate when they are following.
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language strategies - Interaction -   
 \## Asking for clarification  
 \### C2  
@@ -1371,7 +1362,6 @@ No descriptors available
 
 \### Pre-A1
 
-  
 \# Communicative language activities - Mediation - Mediating a text  
 \## Explaining data in writing  
 \### C2  
@@ -1390,7 +1380,6 @@ No descriptors available
 
 \### Pre-A1
 
-  
 \# Communicative language activities - Mediation - Mediating a text  
 \## Processing text in speech or sign  
 \### C2  
@@ -1531,7 +1520,6 @@ Can take simple notes at a presentation/demonstration where the subject matter i
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language activities - Mediation - Mediating a text  
 \## Expressing a personal response to creative texts (including literature)  
 \### C2
@@ -1587,7 +1575,6 @@ Can identify and briefly describe, in basic formulaic language, the key themes a
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language activities - Mediation - Mediating concepts  
 \## Facilitating collaborative interaction with peers   
 \### C2
@@ -1675,7 +1662,6 @@ Can give very simple instructions to a co-operative group, given some help with 
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language activities - Mediation - Mediating concepts  
 \## Encouraging conceptual talk  
 \### C2  
@@ -1804,7 +1790,6 @@ No descriptors available
 
 \### Pre-A1
 
-  
 \# Communicative language strategies - Mediation - Strategies to explain a new concept  
 \## Adapting language  
 \### C2  
@@ -1828,7 +1813,6 @@ Can repeat the main point of a simple message on an everyday subject, using diff
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language strategies - Mediation - Strategies to explain a new concept  
 \## Breaking down complicated information  
 \### C2  
@@ -1849,7 +1833,6 @@ No descriptors available
 
 \### Pre-A1
 
-  
 \# Communicative language strategies - Mediation - Strategies to simplify a text  
 \## Amplifying a dense text  
 \### C2  
@@ -1872,7 +1855,6 @@ No descriptors available
 
 \### Pre-A1
 
-  
 \# Communicative language strategies - Mediation - Strategies to simplify a text  
 \## Streamlining a text  
 \### C2  
@@ -1892,7 +1874,6 @@ Can identify and mark (e.g. underline, highlight) the key sentences in a short e
 No descriptors available  
 \### Pre-A1
 
-  
 \# Plurilingual and pluricultural competence -  -   
 \## Building on pluricultural repertoire  
 \### C2  
@@ -2076,7 +2057,6 @@ Can control a narrow repertoire dealing with concrete, everyday needs.
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language competences -  - Linguistic competence  
 \## Overall phonological control  
 \### C2  
@@ -2210,7 +2190,6 @@ Can expand learnt phrases through simple recombinations of their elements.
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language competences -  - Pragmatic competence  
 \## Turntaking  
 \### C2  
@@ -2235,7 +2214,6 @@ Can ask for attention.
 No descriptors available  
 \### Pre-A1
 
-  
 \# Communicative language competences -  - Pragmatic competence  
 \## Thematic development  
 \### C2  
@@ -2269,7 +2247,6 @@ No descriptors available
 
 \### Pre-A1
 
-  
 \# Communicative language competences -  - Pragmatic competence  
 \## Coherence and cohesion  
 \### C2  
